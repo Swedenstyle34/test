@@ -2,9 +2,9 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; 824947346680053832
-$client_secret = ""; KyDGw16z_0rD4wDqeYk1Jha2HBSR-SIP
-$redirect      = ""; https://youtu.be/dQw4w9WgXcQ
+$client_id     = "824947346680053832";
+$client_secret = "KyDGw16z_0rD4wDqeYk1Jha2HBSR-SIP";
+$redirect      = "https://youtu.be/dQw4w9WgXcQ";
 
 function get_ip_address()
 {
